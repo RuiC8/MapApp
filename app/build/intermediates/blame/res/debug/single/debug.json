@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable__logo_.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/_logo_.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/raw_trend.txt.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/raw/trend.txt"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_vulnerability_map.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/vulnerability_map.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/layout_activity_display_vulnerability_map.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/layout/activity_display_vulnerability_map.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/layout_activity_display_trend_map.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/layout/activity_display_trend_map.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_mainmenu_gradient.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/mainmenu_gradient.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_covid_19_icon_2.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/covid_19_icon_2.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/raw_houston_super_neighborhoods.json.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/raw/houston_super_neighborhoods.json"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_covid_19_icon_4.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/covid_19_icon_4.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/layout_listitem.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/layout/listitem.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_form_gradient.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/form_gradient.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_covid_19_icon.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/covid_19_icon.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_display_gradient.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/display_gradient.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_green_categories.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/green_categories.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/raw_vulnerability.txt.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/raw/vulnerability.txt"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_blue_categories.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/blue_categories.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_covid_19_icon_3.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/covid_19_icon_3.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_risk_level.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/risk_level.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_reverse_gray_graident.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/reverse_gray_graident.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_covid_19_icon_5.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/covid_19_icon_5.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/layout_activity_user_report.xml.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/layout/activity_user_report.xml"
+    },
+    {
+        "merged": "/Users/yr085r/ap_computer/displaymap/app/build/intermediates/res/merged/debug/drawable_trend_map.png.flat",
+        "source": "/Users/yr085r/ap_computer/displaymap/app/src/main/res/drawable/trend_map.png"
+    }
+]
